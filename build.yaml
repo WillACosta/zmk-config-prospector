@@ -12,5 +12,5 @@ include:
     artifact-name: prospector_scanner_touch
 
   # Settings reset utility
-  - board: xiao_ble/nrf52840/zmk
-    shield: settings_reset
+  # - board: xiao_ble/nrf52840/zmk
+    # shield: settings_reset
