@@ -10,8 +10,8 @@ manifest:
       revision: main
       import: app/west.yml
     - name: prospector-zmk-module
-      remote: prospector
-      revision: v2.2.1
+      url: https://github.com/WillACosta/prospector-zmk-module
+      revision: main
       path: modules/prospector-zmk-module
   self:
     path: config
