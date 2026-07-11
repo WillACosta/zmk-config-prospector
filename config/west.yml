@@ -13,7 +13,7 @@ manifest:
 
     - name: prospector-zmk-module
       url: https://github.com/WillACosta/prospector-zmk-module
-      revision: feat/profile-labels
+      revision: main
       path: modules/prospector-zmk-module
 
   self:
