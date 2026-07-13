@@ -13,7 +13,7 @@ manifest:
 
     - name: prospector-zmk-module
       url: https://github.com/WillACosta/prospector-zmk-module
-      revision: main
+      revision: feat/idle-screen-blanking
       path: modules/prospector-zmk-module
 
   self:
